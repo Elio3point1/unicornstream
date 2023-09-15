@@ -1,0 +1,37 @@
+body{
+    background-color: #262626;
+    color: #262626;
+}
+
+h2{
+    margin: 0;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+img{
+    height: 48px;
+    width: 48px;
+    vertical-align: middle;
+}
+
+.title{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #b9a3e3;
+    display: flex;
+    font-size: 28px;
+    gap: 2%;
+}
+
+.embed{
+    margin: 2%;
+    padding: 5%;
+    background-color: #6441a5;
+    border-radius: 32px;
+}
+
+iframe{
+    padding: 0.75%;
+    border-radius: 8px;
+}
