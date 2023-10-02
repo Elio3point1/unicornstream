@@ -2,6 +2,7 @@ body {
   background-color: #262626;
   color: #262626;
   font-family: "Rubik", sans-serif;
+  overflow-x: hidden;
 }
 
 h2 {
@@ -26,6 +27,7 @@ img {
 
 .embed {
   width: 90%;
+  max-width: 90%;
   margin: auto;
   margin-top: 50px;
   padding: 50px;
