@@ -31,11 +31,15 @@ img {
   padding: 50px;
   background-color: #6441a5;
   border-radius: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(620px, 1fr));
+  gap: 32px;
 }
 
 iframe {
   padding: 0.75%;
   border-radius: 25px;
+  width: 100%;
 }
 
 p {
