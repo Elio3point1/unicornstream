@@ -6,40 +6,36 @@ body {
 
 h2 {
   margin: 0;
-  padding-top: 0.5%;
-  padding-bottom: 0.5%;
+  margin-left: 25px;
 }
 
 img {
   height: 48px;
   width: 48px;
-  vertical-align: middle;
 }
 
 .title {
-  padding: 1%;
+  padding: 20px;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   background-color: #b9a3e3;
   display: flex;
   align-items: center;
   font-size: 28px;
-  gap: 2%;
 }
 
 .embed {
-  margin-top: 2%;
-  margin-bottom: 2%;
-  margin-left: 4.70%;
-  margin-right: 4.70%;
-  padding: 2.5%;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+  padding: 50px;
   background-color: #6441a5;
-  border-radius: 32px;
+  border-radius: 30px;
 }
 
 iframe {
   padding: 0.75%;
-  border-radius: 28px;
+  border-radius: 25px;
 }
 
 p{
